@@ -12,12 +12,12 @@ The output is a list of M lines. Each line is one train listing. Each of the M l
 
 
 
-- Input:
-Bangalore Hyderabad
-Bangalore Hyderabad 10000
-Bangalore Chennai 4000
+- Input:\
+Bangalore Hyderabad\
+Bangalore Hyderabad 10000\
+Bangalore Chennai 4000\
 Chennai Hyderabad 4000
 
-- Output:
-Bangalore Chennai Hyderabad 8000
+- Output:\
+Bangalore Chennai Hyderabad 8000\
 Bangalore Hyderabad 10000
